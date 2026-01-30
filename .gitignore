@@ -1,0 +1,6 @@
+# Build and packaging artifacts
+vampw/build/
+vampw/vampw.egg-info/
+__pycache__/
+*.py[cod]
+.DS_Store.ipynb_checkpoints/
